@@ -1,0 +1,9 @@
+body{
+    background: linear-gradient(to right, #12c2e9, #c471ed, #fbd786, #f64f59, #f7797d);
+}
+#camera{
+
+    border: 2px dashed white;
+    width: 370px;
+    height: 350px;
+}
